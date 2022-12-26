@@ -1,0 +1,38 @@
+
+.main{
+    width: 100%;
+    background-color: hsl(184, 14%, 56%);
+}
+h1{
+    display: block;
+    text-align: center;
+}
+input{
+    width:20%;
+    height: 30px;
+}
+button{
+    width: 75px;
+    height: 35px;
+}
+.container{
+text-align: center;
+font-size: 24px;
+    width: 50%;
+    float: left;
+    padding: 20px;
+    /* border: 2px solid red ; */
+}
+#select{
+    height:50px;
+    width: 50px;
+}
+.secondSec{
+    background-color: hsl(172, 67%, 45%);
+    text-align: center;
+    font-size: 24px;
+    width: 50%;
+    float: left;
+    padding: 20px;
+
+}
